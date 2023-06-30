@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Aniket Gupta
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Aniket Gupta
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aniket-gupta-28336b16a/)](https://www.linkedin.com/in/aniket-gupta-28336b16a/)
 
-:school: Currently studying DSA From Love Babbar ▶️ </br>
+:school: Sharpening the saw ▶️ </br>
 :computer: I have a passion for coding</br>
 📺 I am anime lover</br>
 :mailbox: How to reach me: <a href="mailto:anni06062001@gmail.com">anni06062001@gmail.com</a>
