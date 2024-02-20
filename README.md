@@ -7,7 +7,7 @@
 :school: Sharpening the saw ▶️ </br>
 :computer: I have a passion for coding</br>
 📺 I am anime lover</br>
-:mailbox: How to reach me: <a href="mailto:anni06062001@gmail.com">anni06062001@gmail.com</a>
+:mailbox: How to reach me: <a href="mailto:work.gupta.aniket@gmail.com">work.gupta.aniket@gmail.com</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-aniket&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
